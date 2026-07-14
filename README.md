@@ -14,7 +14,7 @@ A simple two-player noughts and crosses game made within Python.
 3. Run:
 
 ```bash
-python noughts&crosses.py
+python noughts-and-crosses.py
 ```
 
 ## How to play
