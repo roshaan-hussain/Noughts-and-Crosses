@@ -22,12 +22,12 @@ python noughts-and-crosses.py
 - Player 2 is crosses ("X")
 - Player 1 places their nought anywhere within the 3 x 3 grid in a position between 0 and 8
 
-0  |  1  |  2
--------------
-3  |  4  |  5
--------------
-6  |  7  |  8
+      0   |  1   |  2
+      
+      3   |  4   |  5
+      
+      6   |  7   |  8
 
 - Player 2 places their cross and the game continues until a winner or draw happens
-- A win occurs when a player gets three of their symbols in a row 
+- A win occurs when a player matches three of their symbols in a contiguous line 
 
