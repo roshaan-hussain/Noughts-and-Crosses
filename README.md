@@ -11,7 +11,9 @@ A simple two-player noughts and crosses game made within Python.
 ## How to run
 1. Clone this repository
 2. Open it in VS code
-3. Run ```bash
+3. Run:
+
+```bash
 python noughts&crosses.py
 ```
 
